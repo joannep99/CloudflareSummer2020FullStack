@@ -1,0 +1,6 @@
+name = "cloudflare_summer2020"
+type = "javascript"
+account_id = "6402f3e979b9acc5fdc8023ba3c09c69"
+workers_dev = true
+route = ""
+zone_id = ""
